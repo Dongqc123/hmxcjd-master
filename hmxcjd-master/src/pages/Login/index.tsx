@@ -71,7 +71,7 @@ export default function Login() {
                             name="username"
                             rules={[{ required: true, message: '请输入用户名!' }]}
                         >
-                            <Input prefix={<UserOutlined/>} placeholder="用户名2222"
+                            <Input prefix={<UserOutlined/>} placeholder="用户名1"
                                    onPressEnter={handleEnter}/>
                         </Form.Item>
                         <Form.Item
@@ -86,7 +86,7 @@ export default function Login() {
                         </Form.Item>
                         <Form.Item>
                             <Form.Item name="remember" valuePropName="checked" noStyle>
-                                <Checkbox>记住我的选择</Checkbox>
+                                <Checkbox>记住我</Checkbox>
                             </Form.Item>
 
                             <a className="login-form-forgot" href="###" onClick={handleForgot}>
