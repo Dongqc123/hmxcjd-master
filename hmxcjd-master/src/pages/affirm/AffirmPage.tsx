@@ -1,61 +1,57 @@
-import React from 'react';
-import { Chart, Geom, Axis, Tooltip } from 'dw-mx-charts';
+import React, { useEffect, useRef } from 'react';
+import { Form, Row, Col, Select, Button, Space, Input } from 'dw-mx';
+import { Code } from 'dw-mx-extend';
+import { SearchOutlined } from 'dw-mx-icons';
 
-export default class Basiccolumn extends React.Component {
-    render() {
-        const data = [
-            {
-                year: '1951 年',
-                sales: 38
-            },
-            {
-                year: '1952 年',
-                sales: 52
-            },
-            {
-                year: '1956 年',
-                sales: 61
-            },
-            {
-                year: '1957 年',
-                sales: 145
-            },
-            {
-                year: '1958 年',
-                sales: 48
-            },
-            {
-                year: '1959 年',
-                sales: 38
-            },
-            {
-                year: '1960 年',
-                sales: 38
-            },
-            {
-                year: '1962 年',
-                sales: 38
-            }
-        ];
-        const cols = {
-            sales: {
-                tickInterval: 20
-            }
-        };
-        return (
-            <div>
-                <Chart height={400} data={data} scale={cols} forceFit>
-                    <Axis name="year" />
-                    <Axis name="sales" />
-                    <Tooltip
-                        // crosshairs用于设置 tooltip 的辅助线或者辅助框
-                        // crosshairs={{
-                        //  type: "y"
-                        // }}
-                    />
-                    <Geom type="interval" position="year*sales" />
-                </Chart>
-            </div>
-        );
-    }
+export default function FormDemo() {
+    const inputref = useRef(null);
+    const [form] = Form.useForm();
+
+    const layout = {
+        labelCol: { span: 6 },
+        wrapperCol: { span: 18 }
+    };
+
+    return (
+        <div>
+            <Form form={form} {...layout} layout={'horizontal'}>
+                <Row>
+                    <Col span={5}>
+                        <Form.Item name="ry" label="编号" >
+                            <Input placeholder={'可以输入学生编号'} ref={inputref}/>
+                        </Form.Item>
+                    </Col>
+                    <Col span={1}>
+                    </Col>
+                    <Col span={2}>
+                        <Row justify={'start'}>
+                            <Space>
+                                <Button type='primary'>读卡</Button>
+                            </Space>
+                        </Row>
+                    </Col>
+                    <Col span={5}>
+                        <Form.Item name="jddd" label="鉴定地点" >
+                            <Select allowClear={true} ref={inputref} options={Code.NAMEDCODE.get('HOSP')}>
+                            </Select>
+                        </Form.Item>
+                    </Col>
+
+                    <Col span={1}>
+                    </Col>
+
+                    <Col span={10}>
+                        <Row justify={'start'}>
+                            <Space>
+                                <Button type='primary' icon={<SearchOutlined/>}
+                                >查询</Button>
+                                <Button >清空</Button>
+
+                            </Space>
+                        </Row>
+                    </Col>
+                </Row>
+            </Form>
+        </div>
+    );
 }

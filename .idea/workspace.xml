@@ -6,8 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74815efe-5984-41f4-a1f3-e71d9570042e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hmxcjd-master/src/pages/Login/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hmxcjd-master/src/pages/Login/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmxcjd-master/src/pages/register/RegisterSelect/RegisterSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hmxcjd-master/src/pages/register/RegisterSelect/RegisterSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmxcjd-master/src/pages/affirm/AffirmPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hmxcjd-master/src/pages/affirm/AffirmPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fTWP1TSe9jDmdN59qTfDIFovQF" />
@@ -24,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,7 +66,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596242534593</updated>
-      <workItem from="1596242535768" duration="5627000" />
+      <workItem from="1596242535768" duration="6332000" />
+      <workItem from="1596249121961" duration="23000" />
+      <workItem from="1596258345251" duration="1248000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm第一次更改">
       <created>1596243570152</created>
@@ -104,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596248214711</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="webstorm第三次更改">
+      <created>1596248578629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596248578629</updated>
+    </task>
+    <task id="LOCAL-00008" summary="将用户名改成用户名1&#10;&#10;(cherry picked from commit 27cd7605e0aa11dcc46d8727ba687d6be44e25e8)">
+      <created>1596248654117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596248654117</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,33 +222,38 @@
     <MESSAGE value="webstorm第一次更改" />
     <MESSAGE value="webstorm第二次更改" />
     <MESSAGE value="webstorm第三次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="webstorm第三次更改" />
+    <MESSAGE value="将用户名改成用户名1&#10;&#10;(cherry picked from commit 27cd7605e0aa11dcc46d8727ba687d6be44e25e8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="将用户名改成用户名1&#10;&#10;(cherry picked from commit 27cd7605e0aa11dcc46d8727ba687d6be44e25e8)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="235" key="#Notifications" timestamp="1596244006139">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="492" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596244006139" />
-    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2" timestamp="1596248213622">
+    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2" timestamp="1596248652984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596248213622" />
-    <state width="852" height="210" key="GridCell.Tab.0.bottom" timestamp="1596247123492">
+    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596248652984" />
+    <state width="852" height="210" key="GridCell.Tab.0.bottom" timestamp="1596249019924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596247123492" />
-    <state width="852" height="210" key="GridCell.Tab.0.center" timestamp="1596247123492">
+    <state width="852" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596249019924" />
+    <state width="852" height="210" key="GridCell.Tab.0.center" timestamp="1596249019924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596247123492" />
-    <state width="852" height="210" key="GridCell.Tab.0.left" timestamp="1596247123491">
+    <state width="852" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596249019924" />
+    <state width="852" height="210" key="GridCell.Tab.0.left" timestamp="1596249019924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596247123491" />
-    <state width="852" height="210" key="GridCell.Tab.0.right" timestamp="1596247123492">
+    <state width="852" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596249019924" />
+    <state width="852" height="210" key="GridCell.Tab.0.right" timestamp="1596249019924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596247123492" />
+    <state width="852" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596249019924" />
+    <state x="403" y="172" key="MultipleFileMergeDialog" timestamp="1596248627894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="172" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1596248627894" />
     <state x="270" y="56" key="SettingsEditor" timestamp="1596244897917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -239,10 +266,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1596246376151" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596248218443">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596248655893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596248218443" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596248655893" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596243950103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
