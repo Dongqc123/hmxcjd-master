@@ -69,9 +69,9 @@ export default function Login() {
                     >
                         <Form.Item
                             name="username"
-                            rules={[{ required: true, message: '请输入用户名!随便输入11111' }]}
+                            rules={[{ required: true, message: '请输入用户名!' }]}
                         >
-                            <Input prefix={<UserOutlined/>} placeholder="用户名"
+                            <Input prefix={<UserOutlined/>} placeholder="用户名11111111111"
                                    onPressEnter={handleEnter}/>
                         </Form.Item>
                         <Form.Item
