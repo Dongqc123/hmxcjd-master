@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
@@ -24,7 +10,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmxcjd-master/src/pages/Login/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hmxcjd-master/src/pages/Login/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="C:\Users\HP\WebstormProjects\hmxcjd-master\hmxcjd-master\node_modules\typescript\lib" />
   </component>
   <component name="RunManager">
@@ -73,21 +63,75 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596242534593</updated>
-      <workItem from="1596242535768" duration="848000" />
+      <workItem from="1596242535768" duration="5464000" />
     </task>
+    <task id="LOCAL-00001" summary="webstorm第一次更改">
+      <created>1596243570152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596243570153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="webstorm第一次更改">
+      <created>1596243787519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596243787519</updated>
+    </task>
+    <task id="LOCAL-00003" summary="webstorm第二次更改">
+      <created>1596244583424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596244583424</updated>
+    </task>
+    <task id="LOCAL-00004" summary="webstorm第二次更改">
+      <created>1596245202670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596245202670</updated>
+    </task>
+    <task id="LOCAL-00005" summary="webstorm第三次更改">
+      <created>1596247939032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596247939032</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
+        <entry key="1">
           <value>
             <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="user">
                     <value>
                       <list>
@@ -100,6 +144,35 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -118,22 +191,56 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="webstorm第一次更改" />
+    <MESSAGE value="webstorm第二次更改" />
+    <MESSAGE value="webstorm第三次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="webstorm第三次更改" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="854" height="210" key="GridCell.Tab.0.bottom" timestamp="1596243297958">
+    <state x="492" y="235" key="#Notifications" timestamp="1596244006139">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="854" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596243297958" />
-    <state width="854" height="210" key="GridCell.Tab.0.center" timestamp="1596243297958">
+    <state x="492" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596244006139" />
+    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2" timestamp="1596247937644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="854" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596243297958" />
-    <state width="854" height="210" key="GridCell.Tab.0.left" timestamp="1596243297958">
+    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596247937644" />
+    <state width="852" height="210" key="GridCell.Tab.0.bottom" timestamp="1596247123492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="854" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596243297958" />
-    <state width="854" height="210" key="GridCell.Tab.0.right" timestamp="1596243297958">
+    <state width="852" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596247123492" />
+    <state width="852" height="210" key="GridCell.Tab.0.center" timestamp="1596247123492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="854" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596243297958" />
+    <state width="852" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596247123492" />
+    <state width="852" height="210" key="GridCell.Tab.0.left" timestamp="1596247123491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="852" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596247123491" />
+    <state width="852" height="210" key="GridCell.Tab.0.right" timestamp="1596247123492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="852" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596247123492" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1596244897917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596244897917" />
+    <state x="507" y="108" key="VCS.ChangeListViewerDialog" timestamp="1596246032653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="108" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1596246032653" />
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1596246376151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1596246376151" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596248130030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596248130030" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596243950103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596243950103" />
   </component>
 </project>
