@@ -5,7 +5,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74815efe-5984-41f4-a1f3-e71d9570042e" name="Default Changelist" comment="">
+    <list default="true" id="74815efe-5984-41f4-a1f3-e71d9570042e" name="Default Changelist" comment="第一次更新index master">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_27_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_27_[Default_Changelist]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_27__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_27__Default_Changelist_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_28_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_28__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_30_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_30__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_33_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_33__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_45_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_1_14_45__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hmxcjd-master/src/pages/affirm/AffirmPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/hmxcjd-master/src/pages/affirm/AffirmPage.tsx" afterDir="false" />
     </list>
@@ -17,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.start" />
@@ -128,7 +142,49 @@
       <option name="project" value="LOCAL" />
       <updated>1596248654117</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第二次更新affirm">
+      <created>1596261547529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596261547529</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第二次更新affirm">
+      <created>1596261708925</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596261708925</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第三次更新affirm">
+      <created>1596263337105</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596263337105</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第一次更新index">
+      <created>1596263536645</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596263536645</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第一次更新index master">
+      <created>1596264277378</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596264277378</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第二次更新index test">
+      <created>1596264396720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596264396720</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,17 +281,22 @@
     <MESSAGE value="webstorm第二次更改" />
     <MESSAGE value="webstorm第三次更改" />
     <MESSAGE value="将用户名改成用户名1&#10;&#10;(cherry picked from commit 27cd7605e0aa11dcc46d8727ba687d6be44e25e8)" />
-    <option name="LAST_COMMIT_MESSAGE" value="将用户名改成用户名1&#10;&#10;(cherry picked from commit 27cd7605e0aa11dcc46d8727ba687d6be44e25e8)" />
+    <MESSAGE value="第二次更新affirm" />
+    <MESSAGE value="第三次更新affirm" />
+    <MESSAGE value="第一次更新index" />
+    <MESSAGE value="第一次更新index master" />
+    <MESSAGE value="第二次更新index test" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次更新index test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="235" key="#Notifications" timestamp="1596244006139">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="492" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596244006139" />
-    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2" timestamp="1596248652984">
+    <state x="74" y="0" width="1348" height="824" key="CommitChangelistDialog2" timestamp="1596264395467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="46" y="0" width="1348" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596248652984" />
+    <state x="74" y="0" width="1348" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596264395467" />
     <state width="852" height="210" key="GridCell.Tab.0.bottom" timestamp="1596249019924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -268,10 +329,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1596246376151" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596248655893">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596264459944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596248655893" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596264459944" />
+    <state x="529" y="124" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596264308050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="529" y="124" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1596264308050" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596243950103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
