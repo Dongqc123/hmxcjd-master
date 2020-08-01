@@ -83,7 +83,7 @@ export default function OfficeDefend() {
             <Form form={form} {...layout} layout={'horizontal'}>
                 <Row>
                     <Col span={5}>
-                        <Form.Item name="ry" label="人员1111111111111111" >
+                        <Form.Item name="ry" label="人员" >
                             <Input placeholder={'可以输入身份证号'} ref={inputref}/>
                         </Form.Item>
                     </Col>
